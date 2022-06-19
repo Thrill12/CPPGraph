@@ -1,0 +1,4 @@
+﻿  MakingAGraph.cpp
+F:\Source\Repos\MakingAGraph\MakingAGraph\MakingAGraph.cpp(25,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+F:\Source\Repos\MakingAGraph\MakingAGraph\MakingAGraph.cpp(52): warning C4715: 'GetNodeWithChar': not all control paths return a value
+  MakingAGraph.vcxproj -> F:\Source\Repos\MakingAGraph\x64\Debug\MakingAGraph.exe

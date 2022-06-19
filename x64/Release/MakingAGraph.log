@@ -1,0 +1,8 @@
+﻿  MakingAGraph.cpp
+F:\Source\Repos\MakingAGraph\MakingAGraph\MakingAGraph.cpp(40,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+F:\Source\Repos\MakingAGraph\MakingAGraph\MakingAGraph.cpp(67): warning C4715: 'GetNodeWithChar': not all control paths return a value
+  All 222 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MakingAGraph.vcxproj -> F:\Source\Repos\MakingAGraph\x64\Release\MakingAGraph.exe
